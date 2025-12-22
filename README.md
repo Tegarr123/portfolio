@@ -9,3 +9,9 @@ Project Link | Tools | Associated | Description
 [NusaData Data Warehouse ETL Pipeline](https://github.com/Tegarr123/nusadata-etl-script) | Python (Pandas, Google API Client), Google Sheets API, Google Drive API | NusaData Research Program - Sepuluh Nopember Institute of Technology | Designed ready-to-run ETL Pipeline with Change Data Capture (CDC) Handling written in python for research team members. Created py and ipynb (Google Colab) script involving Google Sheets and Drive API for better integration. Designed star schema data warehouse for Badan Pusat Statistik (BPS) data for dashboard visualization.
 [Olist E-Commerce Analytics Pipeline](https://github.com/Tegarr123/Olist-E-Commerce-Analytics-Pipeline) | MinIO, Python, Snowflake, dlthub, dbt (Data Build Tool) | Personal Project | Modern ELT pipeline transforming Brazilian e-commerce data into a Snowflake data warehouse using MinIO, dlt, and dbt for dimensional modeling.
 
+
+## Other Projects
+- [SplitIn (Splitbill API) - Backend API](https://github.com/Ergiaa/splitin-backend)
+- [DAMRI Apps Google Play Reviews Sentiment Analysis](https://github.com/Tegarr123/sentiment-analysis-DAMRIApps)
+- [Sentiment Analysis for Lion Air News Articles](https://github.com/Tegarr123/LionAir-articles-sentiment-analysis)
+- [CI/CD with GitOps implementation for Gym Management System App](https://github.com/Tegarr123/PSO-kelompok7-GymManagementSystem)
