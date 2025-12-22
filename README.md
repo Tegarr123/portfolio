@@ -15,3 +15,4 @@ Project Link | Tools | Associated | Description
 - [DAMRI Apps Google Play Reviews Sentiment Analysis](https://github.com/Tegarr123/sentiment-analysis-DAMRIApps)
 - [Sentiment Analysis for Lion Air News Articles](https://github.com/Tegarr123/LionAir-articles-sentiment-analysis)
 - [CI/CD with GitOps implementation for Gym Management System App](https://github.com/Tegarr123/PSO-kelompok7-GymManagementSystem)
+- [Halal Restaurant Backend System](https://github.com/daniprm/Backend-Kelompok-4-Capstone-C)
