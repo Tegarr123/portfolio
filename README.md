@@ -6,7 +6,7 @@ Contact me on [Linkedin](https://www.linkedin.com/in/a-fadhino-tegar-permana-751
 ## Data Engineering
 Project Link | Tools | Associated | Description
 ---|---|---|---
-[NusaData Data Warehouse ETL Pipeline](https://github.com/Tegarr123/nusadata-etl-script) | Python (Pandas, Google API Client), Google Sheets API, Google Drive API | NusaData Research Program - Sepuluh Nopember Institute of Technology | Designed ready-to-run ETL Pipeline with Change Data Capture (CDC) Handling written in python for research team members. Created py and ipynb (Google Colab) script involving Google Sheets and Drive API for better integration. Designed star schema data warehouse for Badan Pusat Statistik (BPS) data for dashboard visualization.
+[NusaData Data Warehouse ETL Pipeline](https://github.com/Tegarr123/nusadata-etl-script) | Python, Pandas, Dlt, DuckDB, Google Sheets API, Google Drive API | NusaData Research Program - Sepuluh Nopember Institute of Technology | Designed ready-to-run ETL Pipeline with Change Data Capture (CDC) Handling written in python for research team members.
 [Olist E-Commerce Analytics Pipeline](https://github.com/Tegarr123/Olist-E-Commerce-Analytics-Pipeline) | MinIO, Python, Snowflake, dlthub, dbt (Data Build Tool) | Personal Project | Modern ELT pipeline transforming Brazilian e-commerce data into a Snowflake data warehouse using MinIO, dlt, and dbt for dimensional modeling.
 [Freshcart End-to-end Analytics Pipeline](https://github.com/Tegarr123/FreshCart-Analytics-Pipeline.git) | Postgresql, dlthub, dbt, snowflake, docker, airflow, metabase | Personal Project | End-to-end data engineering pipeline for retail sales analytics and market basket analysis using Airflow, dbt, DLT, and Snowflake.
 
